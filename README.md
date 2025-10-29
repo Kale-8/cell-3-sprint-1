@@ -51,7 +51,7 @@ Crear archivo `.env` en la raíz:
 
 ```env
 # Database
-DB_URI=postgresql://postgres.swalgkwxvjdoyguflzby:paJdxhJngfNrApTA@aws-1-us-east-1.pooler.supabase.com:6543/postgres
+DB_URI=your_database_connection_string_here
 
 # JWT
 JWT_SECRET=tu_secret_super_seguro
